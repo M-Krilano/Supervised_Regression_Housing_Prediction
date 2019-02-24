@@ -1,4 +1,4 @@
-# Supervised_Regression_Housing_Prediction
+# Supervised Regression California Housing Prediction
 Created a supervised regression model to predict housing prices of cities/groups in California
 - Extracted data from census.gov containing features such as
     - Median House Value, Household Income Value, Various Race Populations, Various Age Group Populations, geolocation, etc
