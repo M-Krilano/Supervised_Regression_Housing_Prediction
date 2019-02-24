@@ -1,4 +1,4 @@
-# Supervised_LinearRegression_Housing_Prediction
+# Supervised_Regression_Housing_Prediction
 Created a supervised regression model to predict housing prices of cities/groups in California
 - Extracted data from census.gov containing features such as
     - Median House Value, Household Income Value, Various Race Populations, Various Age Group Populations, geolocation, etc
@@ -24,7 +24,8 @@ Created a supervised regression model to predict housing prices of cities/groups
   
   
   Results:
-    - RMSE = 
-    - Accuracy =
+    - Final RMSE: 173621.92240298502
+    - Compared to test RMSE: 0.33797187945329926
+    - Accuracy: 78.20%
     - Overfitted, will need to use more data to mitigate overgeneralization of data
     
