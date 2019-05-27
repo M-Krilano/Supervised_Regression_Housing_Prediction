@@ -29,3 +29,11 @@ Created a supervised regression model to predict housing prices of cities/groups
     - Accuracy: 78.20%
     - Overfitted, will need to use more data to mitigate overgeneralization of data
     
+    
+    # Please Note
+I used plotly but github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. If you'd like to see the dynamic graphs paste the link of any GitHub notebooks into http://nbviewer.jupyter.org/, which will present a rich view of the notebook.
+
+Notebook Links:
+https://github.com/M-Krilano/Supervised_Regression_Housing_Prediction/blob/master/CA_Median_Housing_Prediction.ipynb
+
+    
